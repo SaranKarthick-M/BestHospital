@@ -1,2 +1,2 @@
 # BestHospital
-Official Website of Best Hospital. The Patients can book appointment via this Website.
+Official Website of Best Hospital.
